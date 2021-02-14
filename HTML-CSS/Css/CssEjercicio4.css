@@ -1,0 +1,30 @@
+body {
+    font-family: arial;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    background-color: peru;
+    font-size: 20px;
+}
+
+h2 {
+    background-color: blanchedalmond;
+}
+
+h2 {
+    color: steelblue;
+    font-style: italic;
+}
+
+.lista {
+    list-style-type: none;
+}
+
+h3 {
+    color: steelblue;
+}
+
+.subsubtitulo {
+    color: cadetblue;
+}
